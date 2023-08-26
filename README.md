@@ -1,15 +1,13 @@
 # Inspirational Quotes Generator
 
 ## Description
+
 This project is an inspirational quotes generator developed using svelte. it allows users to view inspirational quotes from famous people in a random way.
 
 ## Implemented Features
+
 - **Random Phrase Generation**: You can easily add new tasks to your list using the provided input field.
 - **Browse by Author**: Users can view a list of quotes associated with that author.
-- **Remove Tasks**: You have the option to remove individual tasks or all completed tasks under the "Completed" tab.
-- **Local Storage**: I implemented browser storage to save your tasks even after refreshing the page.
-
-
 
 ## How it works
 
@@ -46,4 +44,4 @@ Sincerely,
 
 ---
 
-*Note: This is a concise overview of my project. For more details about the code and implementation, I invite you to explore the GitHub repository.*
+_Note: This is a concise overview of my project. For more details about the code and implementation, I invite you to explore the GitHub repository._
