@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Steve Jobs",
+    "profession": "Entrepreneur and co-founder of Apple Inc",
+    "sentence": [
+      "Stay hungry, stay foolish.",
+      "Innovation distinguishes between a leader and a follower.",
+      "Your time is limited, don't waste it living someone else's life."
+    ]
+  },
+  {
+    "name": "Albert Einstein",
+    "profession": "Theoretical physicist",
+    "sentence": [
+      "Imagination is more important than knowledge.",
+      "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "Strive not to be a success, but rather to be of value."
+    ]
+  },
+  {
+    "name": "Nelson Mandela",
+    "profession": "Politician and South African leader",
+    "sentence": [
+      "Education is the most powerful weapon which you can use to change the world.",
+      "It always seems impossible until it's done.",
+      "I learned that courage was not the absence of fear, but the triumph over it."
+    ]
+  },
+  {
+    "name": "Malala Yousafzai",
+    "profession": "Activist for education and equality",
+    "sentence": [
+      "One child, one teacher, one book, one pen can change the world.",
+      "We realize the importance of our voices only when we are silenced.",
+      "Let us remember: One book, one pen, one child, and one teacher can change the world."
+    ]
+  },
+  {
+    "name": "Elon Musk",
+    "profession": "Entrepreneur and CEO of multiple companies, including Tesla and SpaceX",
+    "sentence": [
+      "When something is important enough, you do it even if the odds are not in your favor.",
+      "I think it is possible for ordinary people to choose to be extraordinary.",
+      "The first step is to establish that something is possible; then probability will occur."
+    ]
+  },
+  {
+    "name": "Leonardo da Vinci",
+    "profession": "Polymath, painter, and inventor",
+    "sentence": [
+      "Simplicity is the ultimate sophistication.",
+      "Art is never finished, only abandoned.",
+      "Learning never exhausts the mind."
+    ]
+  },
+  {
+    "name": "Coco Chanel",
+    "profession": "Fashion designer and founder of the Chanel brand",
+    "sentence": [
+      "The most courageous act is still to think for yourself. Aloud.",
+      "A girl should be two things: classy and fabulous.",
+      "In order to be irreplaceable, one must always be different."
+    ]
+  },
+  {
+    "name": "Walt Disney",
+    "profession": "Entrepreneur and Disney creator",
+    "sentence": [
+      "All our dreams can come true, if we have the courage to pursue them.",
+      "The way to get started is to quit talking and start doing.",
+      "If you can dream it, you can do it."
+    ]
+  },
+  {
+    "name": "Maya Angelou",
+    "profession": "Writer and poet",
+    "sentence": [
+      "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "You may not control all the events that happen to you, but you can decide not to be reduced by them.",
+      "If you don't like something, change it. If you can't change it, change your attitude."
+    ]
+  },
+  {
+    "name": "Mahatma Gandhi",
+    "profession": "Leader of the Indian independence movement",
+    "sentence": [
+      "Be the change that you wish to see in the world.",
+      "The best way to find yourself is to lose yourself in the service of others.",
+      "An eye for an eye only ends up making the whole world blind."
+    ]
+  },
+  {
+    "name": "Martin Luther King Jr",
+    "profession": "Civil rights activist and leader",
+    "sentence": [
+      "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "Injustice anywhere is a threat to justice everywhere.",
+      "Our lives begin to end the day we become silent about things that matter."
+    ]
+  },
+  {
+    "name": "Oprah Winfrey",
+    "profession": "Media proprietor, talk show host, and philanthropist",
+    "sentence": [
+      "The biggest adventure you can take is to live the life of your dreams.",
+      "Turn your wounds into wisdom.",
+      "Doing the best at this moment puts you in the best place for the next moment."
+    ]
+  },
+  {
+    "name": "Stephen Hawking",
+    "profession": "Theoretical physicist and cosmologist",
+    "sentence": [
+      "Remember to look up at the stars and not down at your feet.",
+      "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.",
+      "Intelligence is the ability to adapt to change."
+    ]
+  },
+  {
+    "name": "J.K. Rowling",
+    "profession": "Author of the Harry Potter series",
+    "sentence": [
+      "It is our choices that show what we truly are, far more than our abilities.",
+      "Rock bottom became the solid foundation on which I rebuilt my life.",
+      "Happiness can be found even in the darkest of times, if one only remembers to turn on the light."
+    ]
+  }
+]

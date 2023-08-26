@@ -1,0 +1,20 @@
+@import './css/normalize.css';
+@import './css/pattern_bg.css';
+
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: dark light;
+  --color: white;
+  --background: #000;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  padding: 2.5em 1.5em;
+  color: var(--color);
+}
